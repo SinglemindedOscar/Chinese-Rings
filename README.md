@@ -21,7 +21,8 @@ If you want to modify take care must not to exceed 50mA total current for each o
 printed cicuit board and other if you need...  
 
 ## Programming
-Build the project with MPLAB XC8 Assembler.  You also need a programming tool like Microchip Pickit.
+Build the project with MPLAB XC8 Assembler.  
+You also need a programming tool like Microchip Pickit.
 
 ## To solve
 Your mission is to turn on all LEDs, and then turn off all LEDs.  
