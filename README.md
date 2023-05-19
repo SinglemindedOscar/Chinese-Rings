@@ -26,7 +26,4 @@ You also need a programming tool like Microchip Pickit.
 
 ## To solve
 Your mission is to turn on all LEDs, and then turn off all LEDs.  
-There are one or two correct switches on each step. Pressing the correct switch toggles the corresponding LED on/off state. Whether an LED can be turned on/off depends on the state of other LEDs. No random elements. Everything works as logical.  
-
-## Important point
-Unfortunately if it doesn't work, suspect your soldering first, please.
+There are one or two correct switches on each step. Pressing the correct switch toggles the corresponding LED on/off state. Whether an LED can be turned on/off depends on the state of other LEDs. No random elements. Everything works as logical.
