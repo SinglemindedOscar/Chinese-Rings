@@ -10,9 +10,12 @@ This project is an electronic simulation of this puzzle. By pressing the tact sw
 ![Chinese nine rings](images/IMG002.png "Chinese nine rings")  
   
 
-## Circuit
+## Circuitdiagram
 It is simple, 9 LEDs and 9 tact switches are connected to baseline PIC16F57.  
 If you want to modify take care must not to exceed 50mA total current for each output port.
+  
+![Circuitdiagram](images/IMG003.png "Circuitdiagram")  
+  
 
 ## BOM
 1. Microchip PIC16F57  
