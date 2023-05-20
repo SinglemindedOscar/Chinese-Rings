@@ -24,7 +24,7 @@ If you want to modify take care must not to exceed 50mA total current for each o
 6. capacitor 0.1uF x 1  
 7. resonator 4MHz x 1  
 8. power connector  
-printed cicuit board and other if you need...  
+printed circuit board and other if you need...  
 
 ## Programming
 Build the project with MPLAB XC8 Assembler.  
