@@ -5,7 +5,7 @@ Nine metal rings are attached to the elongated body, and another elongated ring 
   
 ![Chinese nine rings](images/IMG001.png "Chinese nine rings")  
   
-This project is an electronic simulation of this puzzle. By pressing the tact switches, you can turn on and off a LED as if you are passing the ring through or out.  
+This project is an electronic simulation of this puzzle. By pressing the tact switches, you can turn on and off LEDs as if you are passing the rings through or out.  
   
 ![Chinese nine rings](images/IMG002.png "Chinese nine rings")  
   
