@@ -2,14 +2,20 @@
 ## Overview
 Chinese nine rings is a puzzle that is said to have originated in ancient China.
 Nine metal rings are attached to the elongated body, and another elongated ring remove from the nine rings and attache again for play.  
-This project is an electronic simuration of this puzzle. By pressing the tact switch, you can turn on and off the LED as if you were passing the ring through or out.
+  
+![Chinese nine rings](images/IMG001.png "Chinese nine rings")  
+  
+This project is an electronic simuration of this puzzle. By pressing the tact switches, you can turn on and off the LED as if you were passing the ring through or out.  
+  
+![Chinese nine rings](images/IMG002.png "Chinese nine rings")  
+  
 
 ## Circuit
 It is simple, 9 LEDs and 9 tact switches are connected to baseline PIC16F57.  
 If you want to modify take care must not to exceed 50mA total current for each output port.
 
 ## BOM
-1. PIC16F57  
+1. Microchip PIC16F57  
 2. IC (28p) socket  
 3. LED x 9  
 4. tact switch x 10  
@@ -22,7 +28,7 @@ printed cicuit board and other if you need...
 
 ## Programming
 Build the project with MPLAB XC8 Assembler.  
-You also need a programming tool like Microchip Pickit.
+You also need a programming tool like Microchip Pickit(TM).
 
 ## To solve
 Your mission is to turn on all LEDs, and then turn off all LEDs.  
