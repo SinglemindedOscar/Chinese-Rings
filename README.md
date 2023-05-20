@@ -5,7 +5,7 @@ Nine metal rings are attached to the elongated body, and another elongated ring 
   
 ![Chinese nine rings](images/IMG001.png "Chinese nine rings")  
   
-This project is an electronic simulation of this puzzle. By pressing the tact switches, you can turn on and off the LED as if you are passing the ring through or out.  
+This project is an electronic simulation of this puzzle. By pressing the tact switches, you can turn on and off a LED as if you are passing the ring through or out.  
   
 ![Chinese nine rings](images/IMG002.png "Chinese nine rings")  
   
@@ -35,4 +35,4 @@ You also need a programming tool like Microchip Pickit(TM).
 
 ## To solve
 Your mission is to turn on all LEDs, and then turn off all LEDs.  
-There are one or two correct switches on each step. Pressing the correct switch toggles the corresponding LED on/off state. Whether an LED can be turned on/off depends on the state of other LEDs. No random elements. Everything works as logical.
+There are one or two correct switches on each step. Pressing the correct switch toggles the corresponding LED on/off state. Whether the LED can be turned on/off depends on the state of other LEDs. No random elements. Everything works as logical.
